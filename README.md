@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=workpc194&label=Profile%20views&color=0e75b6&style=flat" alt="workpc194" /> </p>
 
-- 🔭 I’m currently working on [Building My Portfolio as a Frontend Developer](https://portfolio-noman-dev1.vercel.app/)
+- 🔭 I’m currently working on [Building My Portfolio as a Frontend Developer](https://portfolio-alpha-two-ov7v2nc6bp.vercel.app/)
 
 - 🌱 I’m currently learning **ReactJS But Soon Moving on NextJS**
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Learning System Design**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-noman-dev1.vercel.app/](https://portfolio-noman-dev1.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-alpha-two-ov7v2nc6bp.vercel.app/](https://portfolio-alpha-two-ov7v2nc6bp.vercel.app/)
 
 - 💬 Ask me about **I’m currently leveling up my skills in React, advanced JavaScript, Animations, Libraries, and UI/UX design**
 
